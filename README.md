@@ -1,6 +1,10 @@
 # 2023-Data-Analysis-Competition-sponsored-by-the-Joint-Council-of-Management-Science-Research-Groups
 Simulation of Sale Effectiveness
 
+***
+提案手法の概要
+ただし，表中の値は人工データ
+Note that the values in the graph are artificial data
 
 ![github_simu_page-0001](https://github.com/Keybo2066/2023-Data-Analysis-Competition-sponsored-by-the-Joint-Council-of-Management-Science-Research-Groups/assets/110601821/32eab3c6-da76-4f4e-9095-28e1d6b7fd1c)
 ![github_simu_page-0002](https://github.com/Keybo2066/2023-Data-Analysis-Competition-sponsored-by-the-Joint-Council-of-Management-Science-Research-Groups/assets/110601821/e0305c4c-45da-48c0-9085-af9ce52f32d7)
